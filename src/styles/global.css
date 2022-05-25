@@ -68,6 +68,9 @@ ul, li, a {
     display: flex;
     justify-content: center;
     font-size: 14px;
+}
+
+.footer-itens a{
     color: rgb(156, 156, 156);
 }
 
